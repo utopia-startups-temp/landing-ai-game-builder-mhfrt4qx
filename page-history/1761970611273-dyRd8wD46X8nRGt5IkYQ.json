@@ -1,0 +1,138 @@
+{
+  "version": 1,
+  "branding": {
+    "name": "ai game builder",
+    "primary": "#ff0014",
+    "secondary": "#93ff00",
+    "accent": "#00ffeb",
+    "background": "#ffffff",
+    "text": "#1a1a1a",
+    "fontFamily": "Rubik, system-ui, sans-serif",
+    "tone": "friendly"
+  },
+  "goal": "lead-collection",
+  "sections": [
+    {
+      "id": "hero",
+      "type": "hero",
+      "eyebrow": "AI Game Builder",
+      "headline": "Turn your idea into a playable game in minutes",
+      "subheadline": "Describe your vision. Our AI builds graphics, mechanics, and levels you can edit and export.",
+      "background": {
+        "color": "#ff0014",
+        "pattern": "gradient",
+        "emphasis": "medium"
+      }
+    },
+    {
+      "id": "problem",
+      "type": "problem",
+      "eyebrow": "The Problem",
+      "headline": "Game creation is slow, complex, and expensive",
+      "subheadline": "Ideas stall when you need art, code, levels, and polish.",
+      "bullets": [
+        "Vague ideas are hard to translate into working mechanics",
+        "Asset generation must stay consistent across art, audio, and scripts",
+        "Exporting to Unity or Godot often breaks pipelines",
+        "Playtesting and debugging drain time before real progress"
+      ],
+      "background": {
+        "color": "#ffffff",
+        "pattern": "none",
+        "emphasis": "light"
+      }
+    },
+    {
+      "id": "solution",
+      "type": "solution",
+      "eyebrow": "The Solution",
+      "headline": "AI that assembles a playable game for you",
+      "subheadline": "From a single prompt to graphics, mechanics, and levels—ready to tweak and export.",
+      "bullets": [
+        "Prototype in minutes, not months",
+        "No-code editor with instant preview",
+        "Cohesive assets aligned to your chosen style",
+        "Unity/Godot exports and test harnesses"
+      ],
+      "background": {
+        "color": "#93ff00",
+        "pattern": "diagonal",
+        "emphasis": "light"
+      }
+    },
+    {
+      "id": "features",
+      "type": "features",
+      "eyebrow": "Key Capabilities",
+      "headline": "Everything you need to ship prototypes fast",
+      "subheadline": "Focus on ideas; AI handles the busywork.",
+      "items": [
+        {
+          "title": "Prompt-to-Play",
+          "description": "Turn a short description into a playable core loop—characters, rules, and goals."
+        },
+        {
+          "title": "Smart Asset Pack",
+          "description": "Auto-generate cohesive art, audio, and scripts with style controls."
+        },
+        {
+          "title": "No-Code Editor",
+          "description": "Drag-and-drop levels, tweak physics and rules, preview instantly."
+        },
+        {
+          "title": "One-Click Export",
+          "description": "Export Unity or Godot-ready projects to continue development."
+        }
+      ],
+      "background": {
+        "color": "#f8f9fa",
+        "pattern": "none",
+        "emphasis": "light"
+      }
+    },
+    {
+      "id": "testimonials",
+      "type": "testimonials",
+      "eyebrow": "Loved by creators",
+      "headline": "From idea to playable in a single session",
+      "testimonials": [
+        {
+          "quote": "I shipped a prototype over a weekend—no engine setup, no blockers.",
+          "name": "Ava R.",
+          "title": "Solo Dev",
+          "company": "Indie Studio"
+        },
+        {
+          "quote": "Perfect for class projects. Students iterate faster and learn by playing.",
+          "name": "Dr. Malik S.",
+          "title": "Professor of Game Design",
+          "company": "State University"
+        },
+        {
+          "quote": "Rapid client prototypes without burning our art team—game changer.",
+          "name": "Lena K.",
+          "title": "Producer",
+          "company": "Agency Collective"
+        }
+      ],
+      "background": {
+        "color": "#ffffff",
+        "pattern": "grid",
+        "emphasis": "light"
+      }
+    },
+    {
+      "id": "cta-final",
+      "type": "cta",
+      "eyebrow": "Early Access Beta",
+      "headline": "Be first to build games with AI",
+      "subheadline": "Join the private beta and help shape the builder.",
+      "supportingCopy": "Sign up to get updates and early invites.",
+      "background": {
+        "color": "#00ffeb",
+        "pattern": "none",
+        "emphasis": "light"
+      }
+    }
+  ]
+}
